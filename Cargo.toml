@@ -11,4 +11,3 @@ bevy = "0.13.2"
 bevy_ggrs = { version = "0.15.0", features = ["wasm-bindgen"] }
 bevy_matchbox = { version = "0.9.0", features = ["ggrs"] }
 ggrs = "0.10.2"
-matchbox_socket = { version = "0.9.0", features = ["ggrs"] }

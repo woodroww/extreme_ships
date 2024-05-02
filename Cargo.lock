@@ -2236,7 +2236,6 @@ dependencies = [
  "bevy_ggrs",
  "bevy_matchbox",
  "ggrs",
- "matchbox_socket",
 ]
 
 [[package]]
